@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 8px;
+      text-align: center;
+      border: 1px solid black;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <th>Number</th>
+      <th>Square</th>
+      <th>Cube</th>
+    </tr>
+    <!-- Use JavaScript to calculate and display the results -->
+    <script>
+      for (var i = 0; i <= 10; i++) {
+        var square = i * i;
+        var cube = i * i * i;
+        document.write("<tr>");
+        document.write("<td>" + i + "</td>");
+        document.write("<td>" + square + "</td>");
+        document.write("<td>" + cube + "</td>");
+        document.write("</tr>");
+      }
+    </script>
+  </table>
+</body>
+</html>
