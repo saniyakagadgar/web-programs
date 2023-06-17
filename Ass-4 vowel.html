@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>String and Number Functions Demo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    .result {
+      margin-top: 10px;
+      background-color: #f5f5f5;
+      padding: 10px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h1>String and Number Functions Demo</h1>
+  
+  <label for="inputString">Enter a string:</label>
+  <input type="text" id="inputString">
+  <button onclick="displayLeftMostVowel()">Find Left-Most Vowel</button>
+
+  <div class="result">
+    <p id="leftMostVowelResult"></p>
+  </div>
+
+  <label for="inputNumber">Enter a number:</label>
+  <input type="number" id="inputNumber">
+  <button onclick="displayReverseNumber()">Reverse Number</button>
+
+  <div class="result">
+    <p id="reverseNumberResult"></p>
+  </div>
+
+  <script>
+    function displayLeftMostVowel() {
+      var inputString = document.getElementById("inputString").value;
+      var vowels = ['a', 'e', 'i', 'o', 'u'];
+      var position = -1;
+
+      for (var i = 0; i < inputString.length; i++) {
+        if (vowels.includes(inputString[i].toLowerCase())) {
+          position = i;
+          break;
+        }
+      }
+
+      if (position !== -1) {
+        document.getElementById("leftMostVowelResult").innerText = "The left-most vowel is at position " + (position + 1);
+      } else {
+        document.getElementById("leftMostVowelResult").innerText = "No vowels found in the string";
+      }
+    }
+
+    function displayReverseNumber() {
+      var inputNumber = document.getElementById("inputNumber").value;
+      var reversedNumber = parseInt(inputNumber.toString().split('').reverse().join(''));
+
+      document.getElementById("reverseNumberResult").innerText = "The reverse of the number is " + reversedNumber;
+    }
+  </script>
+</body>
+</html>
