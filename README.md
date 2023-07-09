@@ -12,3 +12,5 @@ Ass-4 vowel output
 ![image](https://github.com/saniyakagadgar/web-programs/assets/136829991/8de38313-0765-420c-a4c1-a36db331ec98)
 Ass-5 output
 ![Screenshot (29)](https://github.com/saniyakagadgar/web-programs/assets/136829991/fd9ab2a1-baf2-4f47-bc40-e3b166bcc2f7)
+Ass-6 output
+![Screenshot (32)](https://github.com/saniyakagadgar/web-programs/assets/136829991/6e9ba673-a652-4592-ab77-8d06b6896336)
