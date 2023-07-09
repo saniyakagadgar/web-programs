@@ -10,3 +10,4 @@ Ass-3 text shrinking
 ![image](https://github.com/saniyakagadgar/web-programs/assets/136829991/80caab31-1ad0-4e55-be84-369eac3045ed)
 Ass-4 vowel output
 ![image](https://github.com/saniyakagadgar/web-programs/assets/136829991/8de38313-0765-420c-a4c1-a36db331ec98)
+Ass-5 output
