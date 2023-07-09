@@ -22,3 +22,5 @@ Ass-8 output
 ![Screenshot (39)](https://github.com/saniyakagadgar/web-programs/assets/136829991/05061076-0ba9-4ba5-b9e6-caccf2bc3ae2)
 Ass-9 output
 ![Screenshot (42)](https://github.com/saniyakagadgar/web-programs/assets/136829991/a8143fa9-fb15-4096-a764-f18b9602f24a)
+Ass-10 output
+![Screenshot (44)](https://github.com/saniyakagadgar/web-programs/assets/136829991/e06b8433-150c-4e49-8306-4e68de421180)
