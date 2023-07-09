@@ -15,3 +15,5 @@ Ass-5 output
 Ass-6 output
 ![Screenshot (32)](https://github.com/saniyakagadgar/web-programs/assets/136829991/6e9ba673-a652-4592-ab77-8d06b6896336)
 ![Screenshot (33)](https://github.com/saniyakagadgar/web-programs/assets/136829991/823aea8a-6db6-4428-b6f9-5869e16acdf8)
+Ass-7 output
+![Screenshot (36)](https://github.com/saniyakagadgar/web-programs/assets/136829991/7b43816b-64ca-47bb-b9c2-e78768c0211a)
